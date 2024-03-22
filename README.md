@@ -41,6 +41,5 @@
   <a href="https://stackoverflow.com/users/22585913/Adi-gitX"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://www.instagram.com/aditya_88899/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://discord.gg/Adi-gitX"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  <a [Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Aditya-Kammati-the-animator)/>
   </a>
 </p>
