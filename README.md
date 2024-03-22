@@ -2,7 +2,7 @@
 ![banner](https://github.com/Adi-gitX/Adi-gitX/assets/159440749/d3b34d03-cf94-47a1-b224-2e3447484370)
 
 <h1 align="center">
-  Hello there, I'm <a href="https://github.com/Adi-gitX">@Adi-gitX</a> 👋
+  Hi there, I'm <a href="https://github.com/Adi-gitX">@Adi-gitX</a> 👋
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="mylink-resume(on-Work)" target="_blank">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=red" />
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
