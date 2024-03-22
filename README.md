@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="mylink-resume(on-Work)" target="_blank">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=red" />
   </a>
 </p>
 
