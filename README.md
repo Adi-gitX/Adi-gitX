@@ -1,4 +1,5 @@
-![Banner](./assets/images/banner.png)
+
+![banner](https://github.com/Adi-gitX/Adi-gitX/assets/159440749/d3b34d03-cf94-47a1-b224-2e3447484370)
 
 <h1 align="center">
   Hello there, I'm <a href="https://github.com/Adi-gitX">@Adi-gitX</a> 👋
