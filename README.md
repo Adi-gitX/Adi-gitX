@@ -21,8 +21,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats"><br />
-  <img src="https://streak-stats.demolab.com/?user=AryanK1511&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi-gitX&theme=radical&show_icons=true" alt="GitHub Stats"><br />
+  <img src="https://streak-stats.demolab.com/?user=Adi-gitX&theme=radical" alt="GitHub Streak">
 </div>
 
 <hr />
