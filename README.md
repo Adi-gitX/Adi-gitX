@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="mylink-resume(on-Work)" target="_blank">
-    <img alt="Resume" src="![Black and White Professional Software Engineer Resume](https://github.com/Adi-gitX/Adi-gitX/assets/159440749/8382c642-539a-4bf3-b6ca-e68e3a1dd2f9)?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img alt="Resume" src="?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 
 <div align="center">
