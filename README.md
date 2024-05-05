@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="mylink-resume(on-Work)" target="_blank">
-    <img alt="Resume" src="?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1sg35c4z2n5AsKrLhsIxz4ta5VmZZcvmX/view?usp=drive_link" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
-
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adi-gitX&theme=radical&show_icons=true" alt="GitHub Stats"><br />
   <img src="https://streak-stats.demolab.com/?user=Adi-gitX&theme=radical" alt="GitHub Streak">
