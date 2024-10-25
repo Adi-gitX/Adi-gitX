@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    ( "👨‍💻 Webdeveloper | DSA | 100-Days_Of_Leetcode@Challenge" | "👨‍🎓 Btech in Computer Science & Artificial intelligence  @ Newton School Of Technology  )
+    19 y/o Developer 💻 | Web Developer | DSA Enthusiast | B.Tech in Computer Science & AI @ Newton School of Technology | Currently building **@DevXAnonymous** 🤍
 </p>
 
 <p align="center">
