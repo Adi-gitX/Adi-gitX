@@ -1,3 +1,5 @@
+![banner](https://github.com/Adi-gitX/Adi-gitX/assets/159440749/e51549d8-8390-46d5-939c-a937bc0f591d)
+
 <h1 align="center" style="color: white;">
   Hi there, I'm <a href="https://github.com/Adi-gitX" style="color: #1E90FF;">@Adi-gitX</a> 👋
 </h1>
