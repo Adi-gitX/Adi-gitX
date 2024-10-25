@@ -28,7 +28,7 @@
 <hr style="border-color: darkgray;"/>
 
 <p align="center">
-  <a href="https://adi-gitx.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://adigitx.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:adityakammati.workspace@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Adi-gitX"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kammatiaditya/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
