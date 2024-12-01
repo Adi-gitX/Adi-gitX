@@ -22,6 +22,8 @@
   </a>
 </div>
 
+---
+
 
 <h2 align="center" style="color: #1E90FF;">🌐 Connect with Me</h2>
 
