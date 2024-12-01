@@ -7,11 +7,6 @@
 </h1>
 
 <div align="center">
-  <p>
-    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-Adi-gitX&label=visitors&color=purple&style=flat" alt="Visitors" />
-    <img src="https://img.shields.io/github/followers/Adi-gitX?style=flat-square&color=1E90FF&logo=github&logoColor=white" alt="GitHub followers" />
-    <img src="https://img.shields.io/youtube/channel/views/UCxqTwHpFew146NP7HWEKkvA?style=flat-square&color=1E90FF&logo=youtube&logoColor=white" alt="YouTube Channel Views" />
-  </p>
   <p style="color: #D3D3D3; font-size: 1.1rem;">
     19 y/o Developer 💻 | Web Developer | DSA Enthusiast | <br/>
     B.Tech in Computer Science & AI @ Newton School of Technology <br/>
@@ -45,12 +40,6 @@
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
   <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition" />
-</div>
-
-<h2 align="center" style="color: #1E90FF;">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi-gitX&theme=dark&show_icons=true&border_color=1E90FF" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=Adi-gitX&theme=dark&border_radius=5" alt="GitHub Streak" width="49%"/>
 </div>
 
 <h3 align="center" style="color: #1E90FF;">✨ Thank you for visiting! Let’s build something amazing together. ✨</h3>
