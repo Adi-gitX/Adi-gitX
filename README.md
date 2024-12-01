@@ -22,7 +22,6 @@
   </a>
 </div>
 
-<h2 align="center" style="color: #1E90FF;">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adi-gitX&theme=dark&show_icons=true&border_color=1E90FF" alt="GitHub Stats" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=Adi-gitX&theme=dark&border_radius=5" alt="GitHub Streak" width="49%"/>
