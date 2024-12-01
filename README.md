@@ -52,4 +52,3 @@
   <a href="https://www.instagram.com/aditya_88899/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h3 align="center" style="color: #1E90FF;">✨ Thank you for visiting! Let’s build something amazing together. ✨</h3>
