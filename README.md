@@ -18,7 +18,7 @@
     Currently building **@DevXAnonymous** 🤍
   </p>
   <a href="https://drive.google.com/file/d/1EZMLTMBctMH6lCzBm8Dtx27MX_US7bAq/view" target="_blank">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img alt="Resume" src="https://drive.google.com/file/d/1wanoYOWKZD07SJ8HrE-hZPeVXt1J2ZgO/view" />
   </a>
 </div>
 <br>
