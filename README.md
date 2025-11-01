@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/youtube/channel/views/UCxqTwHpFew146NP7HWEKkvA?style=flat-square&color=1E90FF&logo=youtube&logoColor=white" alt="YouTube Channel Views" />
   </p>
   <p style="color: #D3D3D3; font-size: 1.1rem;">
-    19 y/o Developer 💻 | Web Developer | DSA Enthusiast | <br/>
+  20 y/o Developer 💻 | Web Developer | DSA Enthusiast | <br/>
     B.Tech in Computer Science & AI @ Newton School of Technology <br/>
     Currently building **@DevXAnonymous** 🤍
   </p>
