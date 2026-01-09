@@ -18,11 +18,11 @@
 ---
 
 I build backend systems that handle failure gracefully.  
-My work focuses on authentication, large file streaming, retries, and distributed workflows, with an emphasis on correctness, debuggability, and production reliability.
+My work focuses on authentication, large file streaming, retries, and distributed workflows, with a strong emphasis on correctness, debuggability, and production reliability.
 
 ---
 
-## Core Skills
+## 🧠 Core Skills
 
 **Languages**  
 Python · TypeScript · JavaScript
@@ -36,22 +36,11 @@ PostgreSQL · Docker · Linux
 
 ---
 
-## Current Focus
+## 📊 Weekly Coding Activity
 
-Building reliable backend services with strong guarantees around correctness, resilience, and observability.
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi-gitX&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Adi-gitX&hide_border=true" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://adigix.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/kammatiaditya/">LinkedIn</a>
-</p>
+<!--START_SECTION:waka-->
+```txt
+TypeScript   9 hrs 37 mins   ████████████████████████▒   97.77 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
