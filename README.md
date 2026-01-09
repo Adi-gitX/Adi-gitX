@@ -1,60 +1,95 @@
 <div align="center">
-  <img src="https://github.com/Adi-gitX/Adi-gitX/assets/159440749/e51549d8-8390-46d5-939c-a937bc0f591d" alt="Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/e227f8ac-c824-4d45-9949-cf8f07366fc2" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center" style="color: #1E90FF;">
-  Hi there, I'm <a href="https://github.com/Adi-gitX" style="color: #1E90FF;">Adithya (@Adi-gitX)</a> 👋
-</h1>
+<h1 align="center">Hi, I’m Adithya Kammati 👋</h1>
 
-<div align="center">
-  <p>
-    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-Adi-gitX&label=visitors&color=purple&style=flat" alt="Visitors" />
-    <img src="https://img.shields.io/github/followers/Adi-gitX?style=flat-square&color=1E90FF&logo=github&logoColor=white" alt="GitHub followers" />
-    <img src="https://img.shields.io/youtube/channel/views/UCxqTwHpFew146NP7HWEKkvA?style=flat-square&color=1E90FF&logo=youtube&logoColor=white" alt="YouTube Channel Views" />
-  </p>
-  <p style="color: #D3D3D3; font-size: 1.1rem;">
-  20 y/o Developer 💻 | Web Developer | DSA Enthusiast | <br/>
-    B.Tech in Computer Science & AI @ Newton School of Technology <br/>
-    Currently building **@DevXAnonymous** 🤍
-  </p>
-  <a href="https://drive.google.com/file/d/1wanoYOWKZD07SJ8HrE-hZPeVXt1J2ZgO/view" target="_blank">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi-gitX&theme=dark&show_icons=true&border_color=1E90FF" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=Adi-gitX&theme=dark&border_radius=5" alt="GitHub Streak" width="49%"/>
-</div>
-
-<h2 align="center" style="color: #1E90FF;">💻 Tech Stack</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition" />
-</div>
-
-<h2 align="center" style="color: #1E90FF;">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://adi-gitx.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kammatiaditya/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/user9233qs/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://www.instagram.com/aditya_88899/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  Backend-focused Software Engineer • Systems & Reliability • B.Tech CSE + AI
 </p>
+
+<p align="center">
+  <a href="https://adigix.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/kammatiaditya/">LinkedIn</a> •
+  <a href="https://github.com/Adi-gitX">GitHub</a> •
+  <a href="https://drive.google.com/file/d/1ZVJ1oI42nDeJKIJT-IqHFRoQHr6OrS-Z/view?usp=sharing">Resume</a>
+</p>
+
+---
+
+## About Me
+
+Backend-focused software engineer with hands-on experience owning and debugging failure-prone distributed systems.  
+Strong focus on correctness, reliability, and debuggability in production environments.
+
+Currently pursuing **B.Tech in Computer Science & Artificial Intelligence** at **Newton School of Technology**, while building and shipping real-world systems.
+
+---
+
+## What I Work On
+
+- Backend APIs and services (Node.js, TypeScript)
+- Authentication and authorization (JWT, OAuth 2.0)
+- Large file uploads, streaming, resumable workflows
+- Distributed failure handling, retries, idempotency
+- Databases and storage abstractions
+- Production debugging and edge-case analysis
+
+---
+
+## Selected Projects
+
+**DriveMerge (Live)**  
+Quota-aware storage abstraction over multiple Google Drive accounts with chunking, parallel uploads, OAuth token rotation, and resumable streaming downloads.
+
+**why-broke (Open Source)**  
+CLI tool that captures environment, dependency, and configuration state to debug non-deterministic build and runtime failures.
+
+**PEOPLE (Live)**  
+Controlled developer marketplace with gated onboarding, role isolation, and delivery accountability.
+
+---
+
+## Experience
+
+**Software Engineering Intern — Disprz**  
+_Feb 2025 – Jul 2025_
+
+- Investigated recurring production failures across authentication and content delivery systems  
+- Fixed stream validation, corruption scenarios, and retry behavior in large-file uploads, reducing failures by ~30–40%  
+- Implemented enterprise-grade role-based access control with zero post-release regressions  
+- Added idempotent retry paths to safely handle partial failures and network interruptions  
+
+---
+
+## Tech Stack
+
+**Languages**  
+Python, JavaScript, TypeScript, SQL  
+
+**Backend & Systems**  
+Node.js, Express, REST APIs, JWT, OAuth 2.0  
+File streaming, retries, async workflows  
+
+**Datastores**  
+PostgreSQL, MySQL, Firestore  
+
+**Tools**  
+Git, Docker, Linux  
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi-gitX&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Adi-gitX&theme=dark&hide_border=true" width="48%" />
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Adi-gitX/Adi-gitX/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Adi-gitX/Adi-gitX/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Adi-gitX/Adi-gitX/blob/output/github-snake-dark.svg" />
 </picture>
-
