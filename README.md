@@ -88,10 +88,6 @@
 - 3rd Place, Stealth Fire Hackathon (2024)
 - Engineered reliability boosts at Disprz, slashing enterprise downtimes significantly
 
-### Media
-
-- **[AI Interpretability Deep Dive](https://www.youtube.com/watch?v=example)** - Exploring model mechanics (placeholder; add real links)
-- **[GSoC Experience Talk](https://example.com/gsoc-talk)** - Sharing open-source journeys
 
 ### Model Status
 
@@ -104,7 +100,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- 20 y/o coding nomad blending AI with Web3 visions
+- 21 y/o coding nomad blending AI with Web3 visions
 - MATS Stage 2 selectee, laser-focused on AI risks
 - HPAIR delegate fostering cross-cultural tech dialogues
 - LeetCode warrior and gym aficionado
