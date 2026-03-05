@@ -2,7 +2,6 @@
 </div>
 
 # Hi, I'm Adithya 👋
-📍 **Delhi, India** | 🤖 **AI Systems Architect & Research Explorer** | 🚀 **GSoC '24 Alum, MATS Stage 2 Selectee & AI Safety Advocate**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
